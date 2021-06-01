@@ -1,0 +1,5 @@
+data/
+data-lcs.csv
+watch-list/
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,14 @@
+name: long-condor-spread
+
+channels:
+  - powerai
+  - conda-forge
+  - defaults
+
+dependencies:
+  - jupyter
+  - mamba
+  - numpy
+  - pandas
+  - pip
+  - python=3.9
